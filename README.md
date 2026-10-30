@@ -2,11 +2,7 @@
 
 Your MacBook's notch, put to work. Notch Dock turns the notch into a small live dock: what's playing, your Claude Code usage and quick system alerts sit beside the camera, and a hover opens a Liquid Glass panel with a music player, a file shelf and a usage gauge.
 
-<p align="center">
-  <img src="images/player.png" width="32%" alt="Now Playing">
-  <img src="images/shelf.png" width="32%" alt="Shelf">
-  <img src="images/usage.png" width="32%" alt="Claude Code usage">
-</p>
+![Notch Dock: Now Playing, Shelf and Claude Code usage](images/screens.png)
 
 ## Features
 
