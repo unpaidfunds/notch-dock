@@ -1,29 +1,24 @@
 # Notch Dock
 
-Your MacBook's notch, put to work. Notch Dock turns the notch into a small live dock: what's playing, your Claude Code usage and quick system alerts sit beside the camera, and a hover opens a Liquid Glass panel with a music player, a file shelf and a usage gauge.
+Turns the MacBook notch into a small dock. While music plays you get the album art next to the camera, while Claude Code is working you get the mascot and your usage, and hovering opens a panel with a player, a file shelf and a usage gauge.
 
-![Notch Dock: Now Playing, Shelf and Claude Code usage](images/screens.png)
+![Notch Dock](images/screens.png)
 
 ## Features
 
-- **Now Playing:** album art and live bars beside the notch while Apple Music plays. Hover for the full player with scrubbing, transport controls and AirPlay. The glass picks up the album's colour.
-- **Shelf:** drag files onto the notch to park them, drag them back out when you need them, or drop them on the AirDrop tile.
-- **Claude Code usage:** the Claude Code mascot and your current usage beside the notch while you work, with a gauge for the session and weekly limits.
-- **Alerts:** charger plugged in, low battery and AirPods connected, shown briefly in the notch.
-- **Launch at Login** from the menu.
-
-## Requirements
-
-- A Mac with a notch
-- macOS 26 or later
+- Now playing for Apple Music, with scrubbing, transport controls and AirPlay. The glass picks up the album colour.
+- A shelf for parking files: drag them onto the notch, drag them back out later, or drop them on AirDrop.
+- Claude Code status and usage (session and weekly limits).
+- Short alerts for charging, low battery and AirPods.
 
 ## Install
 
-1. Download `Notch-Dock.zip` from the [latest release](../../releases/latest) and unzip it.
-2. Move **Notch Dock.app** to your Applications folder.
-3. The app isn't notarized yet, so the first time, right-click it and choose **Open**, then **Open** again.
-4. Allow access to **Music** when asked, so Notch Dock can show and control what's playing.
+Needs a Mac with a notch on macOS 26 or later.
+
+1. Grab `Notch-Dock.zip` from the [latest release](../../releases/latest) and move the app to Applications.
+2. It isn't notarized yet, so right-click it and choose Open the first time.
+3. Allow Music access when asked.
 
 ## License
 
-Notch Dock is free to download and use, but it is not open source. See [LICENSE](LICENSE).
+Free to use, not open source. See [LICENSE](LICENSE).
