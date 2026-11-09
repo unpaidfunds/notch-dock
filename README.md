@@ -12,13 +12,27 @@ Turns the MacBook notch into a small dock. While music plays you get the album a
 - Claude Code status and usage (session and weekly limits), with the mascot walking while Claude works and a check when it's done.
 - Short alerts for charging, low battery and AirPods.
 
+## Windows
+
+The Windows version puts a black pill at the top centre of the screen in place of the notch, with the same panel: now playing for any player in Windows' media controls (Spotify, browsers and more), the file shelf with a Share tile, Claude Code usage, and alerts for charging, low battery and headphones.
+
 ## Install
+
+### Mac
 
 Needs a Mac with a notch on macOS 26 or later.
 
 1. Grab `Notch-Dock.zip` from the [latest release](../../releases/latest) and move the app to Applications.
 2. It isn't notarized yet, so right-click it and choose Open the first time.
 3. Allow Music access when asked, and turn on Notch Dock under Privacy & Security → Accessibility so it can take over the volume and brightness keys.
+
+### Windows
+
+Needs 64-bit Windows 10 or 11.
+
+1. Grab `Notch-Dock-windows-x64.zip` from the [latest release](../../releases/latest), unzip it and run `Notch Dock.exe`.
+2. It isn't signed yet, so if SmartScreen stops it, choose More info → Run anyway.
+3. Right-click the tray icon to turn on Launch at Login or quit.
 
 ## License
 
